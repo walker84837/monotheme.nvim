@@ -2,6 +2,8 @@
 
 > A simple black&white theme for Neovim
 
+I'm a beginner at making plugins, so if you feel like making some improvements, feel free to open an issue or make a PR!
+
 ## Installation
 
 lazy.nvim:
